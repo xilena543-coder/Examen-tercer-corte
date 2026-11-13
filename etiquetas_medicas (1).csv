@@ -1,0 +1,151 @@
+﻿texto,categoria
+¿Qué diferencia hay entre una historia clínica electrónica y una carpeta escaneada?,historia_clinica
+¿En qué sección del registro clínico suelen quedar los antecedentes?,historia_clinica
+¿Para qué se identifica al autor de una nota en la historia?,historia_clinica
+¿Cómo distingo la fecha de atención de la fecha en que se registró la nota?,historia_clinica
+¿Qué información organiza una hoja de evolución?,historia_clinica
+¿Qué datos quedan documentados al cerrar un episodio de atención?,historia_clinica
+¿Un resumen de egreso forma parte de la historia electrónica?,historia_clinica
+¿Por qué el sistema conserva versiones de una nota corregida?,historia_clinica
+¿Qué diferencia hay entre un registro de urgencias y la historia longitudinal?,historia_clinica
+¿Dónde se consulta el historial de atenciones anteriores?,historia_clinica
+¿Qué apartados tendría una historia clínica ficticia para esta práctica?,historia_clinica
+¿Qué representa una nota firmada dentro del expediente electrónico?,historia_clinica
+¿Cómo se documenta que una nota se agregó después de la atención?,historia_clinica
+¿Para qué sirve agrupar notas y resultados por episodio?,historia_clinica
+¿Qué diferencia hay entre una nota narrativa y un campo estructurado?,historia_clinica
+¿Puedo poner el nombre de un paciente real en el CSV del equipo?,privacidad
+¿Una captura con el número de historia visible contiene datos identificables?,privacidad
+¿Qué significa usar solo los datos necesarios para una actividad de clase?,privacidad
+¿Quitar el nombre de una tabla basta si todavía aparecen fechas y lugares específicos?,privacidad
+¿Qué diferencia hay entre inventar registros y copiar registros reales?,privacidad
+¿Por qué no conviene publicar historias reales en un repositorio público?,privacidad
+¿Qué reviso antes de compartir una captura del chat de práctica?,privacidad
+¿Un correo electrónico puede identificar a alguien en una base de salud?,privacidad
+¿Qué quiere decir limitar el uso de los datos al propósito informado?,privacidad
+¿De qué forma una combinación de edad y municipio puede identificar a una persona?,privacidad
+¿Qué es seudonimizar un conjunto de datos?,privacidad
+¿Un identificador reemplazado por un código todavía puede vincularse con alguien?,privacidad
+¿Por qué los nombres de archivo también pueden revelar información personal?,privacidad
+¿Qué significa confidencialidad al revisar información de salud?,privacidad
+¿Puedo trabajar con un caso completamente inventado para demostrar la interfaz?,privacidad
+¿Qué significa que el acceso a la historia clínica dependa del rol?,seguridad_y_accesos
+¿Para qué sirve la autenticación de dos factores en una aplicación clínica?,seguridad_y_accesos
+¿Deberían dos estudiantes usar la misma cuenta para entrar al sistema?,seguridad_y_accesos
+¿Qué registra una bitácora de acceso a un expediente?,seguridad_y_accesos
+¿Cómo se sabe quién consultó una ficha y a qué hora?,seguridad_y_accesos
+¿Por qué un perfil de lectura no puede editar registros?,seguridad_y_accesos
+¿Qué se hace con los permisos cuando alguien cambia de función?,seguridad_y_accesos
+¿Para qué sirve que el sistema cierre una sesión inactiva?,seguridad_y_accesos
+¿Qué diferencia hay entre iniciar sesión y tener permiso para ver una nota?,seguridad_y_accesos
+¿Por qué se recomienda bloquear el equipo al salir del consultorio?,seguridad_y_accesos
+¿Qué significa asignar privilegios mínimos a un usuario?,seguridad_y_accesos
+¿Qué problema causa una cuenta compartida para la auditoría?,seguridad_y_accesos
+¿Qué tipo de evento puede registrar un sistema al modificar un permiso?,seguridad_y_accesos
+¿Para qué se revisan periódicamente las cuentas habilitadas?,seguridad_y_accesos
+¿Cómo se relacionan las copias de respaldo con recuperar un sistema?,seguridad_y_accesos
+¿Qué diferencia hay entre una consulta por video y una consulta asincrónica?,telemedicina
+¿Para qué sirve verificar el micrófono antes de una consulta remota?,telemedicina
+¿Qué significa seguimiento remoto dentro de la telesalud?,telemedicina
+¿Una videollamada clínica es un ejemplo de interacción sincrónica?,telemedicina
+¿Cómo se documenta que una atención se realizó a distancia?,telemedicina
+¿Qué datos de agenda necesita una sesión de telemedicina ficticia?,telemedicina
+¿Para qué sirve una sala de espera virtual?,telemedicina
+¿Qué diferencia hay entre teleconsulta y teleorientación en una simulación?,telemedicina
+¿Qué pasa con la modalidad de atención si la videollamada se interrumpe?,telemedicina
+¿Cómo se distingue un mensaje enviado para revisión posterior de una sesión en vivo?,telemedicina
+¿Por qué el canal de comunicación importa en una consulta remota?,telemedicina
+¿Qué dificultades de conectividad pueden afectar una demostración de teleconsulta?,telemedicina
+¿Para qué se comprueba el audio y la cámara en una cita virtual?,telemedicina
+¿Qué es el monitoreo remoto en términos de informática en salud?,telemedicina
+¿Cómo identificar en la agenda que una cita se hará por videollamada?,telemedicina
+¿Cómo puede un sistema de laboratorio enviar resultados a otro sistema clínico?,interoperabilidad
+¿Qué significa que dos aplicaciones entiendan igual un dato que intercambian?,interoperabilidad
+¿Para qué sirve el estándar HL7 FHIR?,interoperabilidad
+¿Qué representa un recurso Observation en FHIR?,interoperabilidad
+¿Qué diferencia hay entre un recurso Patient y uno Encounter?,interoperabilidad
+¿Por qué dos hospitales necesitan acordar el formato de los mensajes?,interoperabilidad
+¿Cómo se conserva el significado de un dato cuando pasa de un sistema a otro?,interoperabilidad
+¿Qué es la interoperabilidad semántica?,interoperabilidad
+¿Enviar un PDF y enviar datos estructurados son la misma forma de intercambio?,interoperabilidad
+¿Por qué es importante acordar unidades y códigos al intercambiar resultados?,interoperabilidad
+¿Qué ventaja tiene usar recursos estándar en una integración?,interoperabilidad
+¿Cómo se representa una visita cuando se usa un recurso Encounter?,interoperabilidad
+¿Para qué sirve una interfaz que conecta farmacia y registro electrónico?,interoperabilidad
+¿Qué significa recibir información que la aplicación puede interpretar automáticamente?,interoperabilidad
+¿Puede haber intercambio de archivos sin que ambos sistemas entiendan su contenido?,interoperabilidad
+¿Para qué sirve un código CIE-10 en un registro de práctica?,terminologias_clinicas
+¿Qué diferencia hay entre la descripción escrita y el código de un concepto?,terminologias_clinicas
+¿Qué tipo de conceptos representa SNOMED CT?,terminologias_clinicas
+¿Qué catálogo se usa para identificar una observación de laboratorio?,terminologias_clinicas
+¿Por qué dos sinónimos pueden apuntar a un mismo concepto?,terminologias_clinicas
+¿CIE-10 y SNOMED CT tienen el mismo propósito?,terminologias_clinicas
+¿LOINC identifica la prueba o el valor obtenido?,terminologias_clinicas
+¿Qué significa mapear un concepto entre dos sistemas de codificación?,terminologias_clinicas
+¿Cómo ayuda una terminología controlada a buscar registros?,terminologias_clinicas
+¿Por qué es importante indicar a qué catálogo pertenece un código?,terminologias_clinicas
+¿Qué es un sinónimo dentro de una terminología clínica?,terminologias_clinicas
+¿Qué pasa si dos servicios usan códigos locales distintos para la misma prueba?,terminologias_clinicas
+¿Cómo se distingue el nombre visible del identificador de un concepto?,terminologias_clinicas
+¿Para qué se usa un catálogo normalizado en un formulario clínico?,terminologias_clinicas
+¿Qué ventaja tiene registrar un código junto con el texto libre?,terminologias_clinicas
+¿Cómo detecto filas duplicadas en un conjunto de datos ficticio?,calidad_de_datos
+¿Qué diferencia hay entre un dato faltante y un valor de cero?,calidad_de_datos
+¿Por qué dos formatos de fecha pueden causar errores en una tabla?,calidad_de_datos
+¿Qué significa que un campo obligatorio esté incompleto?,calidad_de_datos
+¿Cómo noto que una fecha de egreso es anterior al ingreso?,calidad_de_datos
+¿Qué diferencia hay entre completitud y consistencia de los datos?,calidad_de_datos
+¿Por qué conviene registrar las unidades en una columna definida?,calidad_de_datos
+¿Qué reviso si dos campos del mismo registro se contradicen?,calidad_de_datos
+¿Cómo afectan los espacios sobrantes a una comparación de etiquetas?,calidad_de_datos
+¿Qué significa que una columna tenga valores fuera de su rango esperado?,calidad_de_datos
+¿Para qué se documenta la corrección de una fila?,calidad_de_datos
+¿Cómo distingo un registro duplicado de dos atenciones diferentes?,calidad_de_datos
+¿Qué problemas puede generar mezclar números y texto en una misma columna?,calidad_de_datos
+¿Por qué es importante que todos usen la misma convención para datos desconocidos?,calidad_de_datos
+¿Qué validación ayuda a encontrar identificadores vacíos en un archivo?,calidad_de_datos
+¿Qué es un sistema de apoyo a la decisión clínica?,soporte_decisiones
+¿Para qué sirve una alerta de seguridad dentro de una aplicación clínica?,soporte_decisiones
+¿Qué significa fatiga por alertas?,soporte_decisiones
+¿Cómo se distingue un recordatorio automático de una nota escrita por alguien?,soporte_decisiones
+¿Qué información muestra una alerta para explicar por qué apareció?,soporte_decisiones
+¿Por qué es útil registrar si una alerta se aceptó o se descartó?,soporte_decisiones
+¿Qué diferencia hay entre una regla del sistema y una decisión humana?,soporte_decisiones
+¿Qué es un falso positivo en una alerta informática?,soporte_decisiones
+¿Cómo evaluamos si una regla simulada se activa cuando corresponde?,soporte_decisiones
+¿Por qué demasiados avisos pueden hacer que se pasen por alto otros?,soporte_decisiones
+¿Para qué sirve probar una alerta con casos ficticios antes de usarla?,soporte_decisiones
+¿Qué significa que una alerta se active por un campo del registro?,soporte_decisiones
+¿Cómo se documenta la versión de una regla en un sistema?,soporte_decisiones
+¿Qué diferencia hay entre una sugerencia informativa y un aviso que interrumpe el flujo?,soporte_decisiones
+¿Por qué se revisa la pertinencia de las alertas después de implementarlas?,soporte_decisiones
+¿Qué muestra una matriz de confusión del chatbot?,evaluacion_chatbot
+¿Qué diferencia hay entre preguntas de entrenamiento y de prueba?,evaluacion_chatbot
+¿Por qué el porcentaje de aciertos puede ocultar fallos en una etiqueta poco frecuente?,evaluacion_chatbot
+¿Cómo sé si el chatbot confunde privacidad con seguridad y accesos?,evaluacion_chatbot
+¿Qué significa que el modelo tenga un puntaje alto y se equivoque?,evaluacion_chatbot
+¿Para qué se guardan preguntas que el modelo no vio durante el entrenamiento?,evaluacion_chatbot
+¿Qué es una clase desbalanceada en el CSV?,evaluacion_chatbot
+¿Por qué no conviene repetir la misma pregunta en entrenamiento y prueba?,evaluacion_chatbot
+¿Cómo se interpreta un error de clasificación en el prototipo?,evaluacion_chatbot
+¿Qué significa sobreajuste con pocos ejemplos?,evaluacion_chatbot
+¿Qué puedo revisar si el chat predice siempre el mismo tema?,evaluacion_chatbot
+¿Por qué usar frases nuevas para evaluar el chatbot?,evaluacion_chatbot
+¿Qué diferencia hay entre acertar una etiqueta y tener una respuesta bien redactada?,evaluacion_chatbot
+¿Qué indica el F1 macro al comparar categorías?,evaluacion_chatbot
+¿Cómo registro un caso de prueba donde la etiqueta esperada y la predicha son distintas?,evaluacion_chatbot
+¿Puedes recomendarme una película para el fin de semana?,fuera_de_tema
+¿Cuántos goles lleva mi equipo favorito?,fuera_de_tema
+¿Cómo cambio la rueda de una bicicleta?,fuera_de_tema
+¿Qué tiempo va a hacer mañana en Bucaramanga?,fuera_de_tema
+¿Puedes resolver esta ecuación de segundo grado?,fuera_de_tema
+¿Qué me recomiendas tomar para un dolor de cabeza?,fuera_de_tema
+¿Puedes diagnosticarme según los síntomas que te describa?,fuera_de_tema
+¿Qué significa que me duela el pecho?,fuera_de_tema
+¿Me puedes interpretar mi resultado de laboratorio personal?,fuera_de_tema
+¿Qué tratamiento necesito para una infección?,fuera_de_tema
+¿Puedes hacerme un plan para correr una maratón?,fuera_de_tema
+¿Cómo preparo una arepa?,fuera_de_tema
+¿Cuál es el precio del dólar hoy?,fuera_de_tema
+¿Qué dosis debo usar de mi medicamento?,fuera_de_tema
+¿Me cuentas un chiste sobre pingüinos?,fuera_de_tema
